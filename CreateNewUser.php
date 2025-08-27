@@ -1,3 +1,3 @@
 <?php
-echo "Created New User!";
+echo "Created New User Test Action!";
 ?>
